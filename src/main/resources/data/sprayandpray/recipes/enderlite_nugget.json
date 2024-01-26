@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sprayandpray:enderlite_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "sprayandpray:enderlite_nugget"
+  }
+}

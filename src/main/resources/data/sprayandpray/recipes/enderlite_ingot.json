@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "sprayandpray:enderlite_nugget"
+    }
+  },
+  "result": {
+    "item": "sprayandpray:enderlite_ingot"
+  }
+}
